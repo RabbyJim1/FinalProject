@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Final Project - V1</string>
+    <string-array name="profile_names">
+        <item>Rabby Jim</item>
+        <item>Mashiur Rahman</item>
+        <item>Ashrafur Rahman</item>
+        <item>Tipu Sultan</item>
+        <item>Maruf Ahmed</item>
+        <item>Shah Alam Titu</item>
+        <item>Jahid Hasan</item>
+    </string-array>
 </resources>
