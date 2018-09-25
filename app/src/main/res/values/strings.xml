@@ -9,4 +9,13 @@
         <item>Shah Alam Titu</item>
         <item>Jahid Hasan</item>
     </string-array>
+    <string-array name="skill_names">
+        <item>C Programming</item>
+        <item>Java</item>
+        <item>Python</item>
+        <item>HTML</item>
+        <item>CSS</item>
+        <item>PHP</item>
+        <item>JavaScript</item>
+    </string-array>
 </resources>
